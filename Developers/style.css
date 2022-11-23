@@ -56,13 +56,13 @@ ul li a:hover {
 }
 
 #updateLog {
-    height: 100%;
-    width: 500px;
-    margin-left: 350px;
+    height: 100px;
+    width: 450px;
+    margin-left: 39.5%;
     background-color: rgb(13, 13, 13);
     color: white;
     padding: 0 20px;
-    padding-bottom: 10px;
+    padding-bottom: 100%;
 
 }
 
